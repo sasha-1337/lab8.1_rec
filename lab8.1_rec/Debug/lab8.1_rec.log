@@ -1,0 +1,5 @@
+﻿  lab8.1_rec.cpp
+D:\Student\lab8.1_rec\lab8.1_rec\lab8.1_rec.cpp(65,17): warning C4305: =: усечение из "int" в "char"
+D:\Student\lab8.1_rec\lab8.1_rec\lab8.1_rec.cpp(65,13): warning C4309: =: усечение константного значения
+D:\Student\lab8.1_rec\lab8.1_rec\lab8.1_rec.cpp(44): warning C4715: Change: значение возвращается не при всех путях выполнения
+  lab8.1_rec.vcxproj -> D:\Student\lab8.1_rec\Debug\lab8.1_rec.exe
